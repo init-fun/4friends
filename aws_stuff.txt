@@ -1,0 +1,4 @@
+fourfriends-bucket
+
+iam group
+ff-usergroup1
